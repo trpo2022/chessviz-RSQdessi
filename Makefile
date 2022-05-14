@@ -1,5 +1,5 @@
-APP_NAME = chessviz
-LIB_NAME = libchessviz
+APP_NAME = chess
+LIB_NAME = libchess
 
 CFLAGS =  -Wall -Wextra -Werror
 CPPFLAGS = -I src -MP -MMD
