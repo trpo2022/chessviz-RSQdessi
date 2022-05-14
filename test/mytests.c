@@ -1,5 +1,5 @@
 #include <ctest.h>
-#include <libchessviz/check_move.h>
+#include <libchess/check_move.h>
 
 CTEST(ctest, write1)
 {
