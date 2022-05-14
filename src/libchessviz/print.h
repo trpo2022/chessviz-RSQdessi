@@ -1,4 +1,4 @@
-ifndef print_H
+#ifndef print_H
 #define print_H
 
 void print(char board[9][9]);
